@@ -1,4 +1,3 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 ![Airbnb logo](https://miro.medium.com/max/2000/1*BsKbDTA9ZUVroeJ7asId4Q.png)
 
 # Post-Covid19 Survival Kit for Airbnb Hosts 
